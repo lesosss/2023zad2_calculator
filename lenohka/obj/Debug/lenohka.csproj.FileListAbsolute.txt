@@ -1,0 +1,10 @@
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.csproj.AssemblyReference.cache
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.Form1.resources
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.Properties.Resources.resources
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.csproj.GenerateResource.cache
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.csproj.CoreCompileInputs.cache
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\bin\Debug\lenohka.exe.config
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\bin\Debug\lenohka.exe
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\bin\Debug\lenohka.pdb
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.exe
+C:\Users\Komp-Home\Source\Repos\lesosss\calculator\lenohka\obj\Debug\lenohka.pdb
